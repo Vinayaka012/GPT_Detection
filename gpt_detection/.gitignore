@@ -1,0 +1,36 @@
+# System files and directories
+AppData/
+Application Data/
+Cookies/
+Local Settings/
+My Documents/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Start Menu/
+Templates/
+NTUSER.DAT
+NTUSER.DAT.*
+*.regtrans-ms
+*.blf
+
+# User-specific directories
+Documents/
+Downloads/
+Favorites/
+Links/
+Music/
+OneDrive/
+PycharmProjects/
+Saved Games/
+Searches/
+Videos/
+
+# Configuration and temporary files
+.bash_history
+.gitconfig
+.ipynb_checkpoints/
+*.tmp
+*.log
+*.bak
